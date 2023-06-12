@@ -1,0 +1,22 @@
+   div{
+        background-color: aliceblue;
+        border-radius: 25px;
+        padding: 20px;
+        width: 350px;
+        height: 400px;
+    }
+  h2{
+    border-radius: 25px;
+ 
+    }
+    
+    .info {
+    border-color: #218ef3;
+    border-radius: 15px;
+    }
+
+    .info:hover {
+     background: #218ef3;
+     border-radius: 15px;
+    }
+
